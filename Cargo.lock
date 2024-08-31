@@ -10,7 +10,7 @@ checksum = "b3d1d046238990b9cf5bcde22a3fb3584ee5cf65fb2765f454ed428c7a0063da"
 
 [[package]]
 name = "beem"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "embedded-io",
  "embedded-io-async",
@@ -196,7 +196,7 @@ dependencies = [
 
 [[package]]
 name = "pidl-bud"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "higher-kinded-types",
  "wasm_runtime_layer",
@@ -204,7 +204,7 @@ dependencies = [
 
 [[package]]
 name = "pidl-core"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "derive_more",
  "hex",
@@ -214,7 +214,7 @@ dependencies = [
 
 [[package]]
 name = "pidl-rust"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "hex",
  "pidl-core",
