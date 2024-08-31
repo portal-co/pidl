@@ -1,0 +1,11 @@
+[package]
+name = "beem"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+embedded-io = "0.6.1"
+embedded-io-async = "0.6.1"
+sha3 = { version = "0.10.8", default-features = false }
+
+weev = "0.3.0"

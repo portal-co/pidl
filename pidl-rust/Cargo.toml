@@ -1,0 +1,13 @@
+[package]
+name = "pidl-rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+hex = "0.4.3"
+pidl-core = { version = "0.1.0", path = "../pidl-core" }
+proc-macro2 = "1.0.86"
+quasiquote = "0.1.1"
+quote = "1.0.37"
+sha3 = "0.10.8"
+syn = "2.0.76"

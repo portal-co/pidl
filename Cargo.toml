@@ -1,0 +1,5 @@
+[workspace]
+members=[ "beem", "pidl-bud","pidl-core", "pidl-rust"]
+resolver="2"
+
+[workspace.dependencies]
