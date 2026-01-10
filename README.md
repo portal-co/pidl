@@ -1,13 +1,14 @@
 # pidl
 
 ## Description
-Project pidl
+"PIDL" - Portal Interface Definition Language? Workspace containing `pidl-core`, `pidl-rust`, and `beem`.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Define IDL for Portal
+- [ ] Generate bindings (`pidl-rust`)
 
 ## Progress
-- [ ] Initial setup
+- [ ] Workspace setup
 
 ---
 *AI assisted*
